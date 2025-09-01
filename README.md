@@ -8,7 +8,6 @@ Instructions
 Using the data in the prompt below, please build a product model to assess Company X’s Home Equity Investments (HEIs). We would like you to evaluate the product performance from the perspective of two key stakeholders: our Homeowners and our Capital Partners.
 
 •	What is Homeowner cost of capital across various HPA and settlement timing scenarios? How does this compare to alternative forms of financing available? What is the Homeowner value proposition vs potential drawbacks of our product?
-
 •	What is the investor return profile (IRR and MoM) across various HPA and settlement timing scenarios? How would you articulate the value proposition to a potential Capital Partner? What are some of their key considerations when determining whether to commit capital to buying HEIs?
 
 
